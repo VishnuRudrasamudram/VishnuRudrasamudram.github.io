@@ -140,6 +140,7 @@ header .intro-text .skills {
 
     .navbar-fixed-top.navbar-shrink {
         padding: 10px 0;
+        box-shadow: rgba(0, 0, 0, 0.0980392) 0px 1px 2px;
     }
 
     .navbar-fixed-top.navbar-shrink .navbar-brand {
